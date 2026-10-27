@@ -1,7 +1,7 @@
 {
-  "title": "Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment: Replication Code",
+  "title": "Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets: Replication Code",
   "upload_type": "software",
-  "description": "<p>Replication codebase for data preparation, bio-economic panel integration, two-way fixed-effects econometric modeling, instrumental-variable identification, carbon-tax counterfactual simulations, and figure generation for the study <em>Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment</em>.</p>",
+  "description": "<p>Replication codebase for data preparation, bio-economic panel integration, two-way fixed-effects econometric modeling, instrumental-variable identification, carbon-tax counterfactual simulations, and figure generation for the study <em>Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets</em>.</p>",
   "creators": [
     {
       "name": "Tunca, Sezgin",
