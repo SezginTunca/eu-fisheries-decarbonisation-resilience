@@ -1,0 +1,13 @@
+# Exclude datasets and generated outputs
+data/
+figures/
+tables/
+Revision/
+*.csv
+*.xlsx
+*.geojson
+*.pdf
+*.docx
+*.png
+__pycache__/
+.DS_Store
