@@ -1,5 +1,7 @@
 # Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23688882.svg)](https://doi.org/10.5281/zenodo.23688882)
+
 **Author:** Sezgin Tunca (ORCID: [0000-0002-7369-4636](https://orcid.org/0000-0002-7369-4636))  
 **Affiliation:** Independent Researcher
 
