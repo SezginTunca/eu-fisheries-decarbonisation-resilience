@@ -2,7 +2,7 @@
 03_visualisations.py
 ====================
 Generates main-text figures (Figures 1-5) and supplementary figures (Figures S1-S6) for:
-"Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment"
+"Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets"
 """
 
 import os
