@@ -1,0 +1,25 @@
+{
+  "title": "Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment (Replication Code)",
+  "upload_type": "software",
+  "description": "<p>Complete Python data-handling, cleaning, bio-economic fusion, panel econometric estimation, carbon tax/rebate micro-simulation, and publication visualisation codebase for <em>Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment</em>. Primary datasets are publicly available from the European Commission JRC/STECF Annual Economic Report (AER), ICES Stock Assessment Database, FAO GFCM, OECD FSE, Eurostat, and World Bank WDI repositories.</p>",
+  "creators": [
+    {
+      "name": "Tunca, Sezgin",
+      "affiliation": "Independent Researcher",
+      "orcid": "0000-0002-7369-4636"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "fisheries economics",
+    "operational decarbonisation",
+    "life cycle assessment",
+    "carbon pricing",
+    "European Union fishing fleet",
+    "panel econometrics",
+    "STECF"
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}
