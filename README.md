@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23688882.svg)](https://doi.org/10.5281/zenodo.23688882)
 
-**Author:** Sezgin Tunca (ORCID: [0000-0002-7369-4636](https://orcid.org/0000-0002-7369-4636))  
+**Author:** Sezgin Tunca (ORCID: [0000-0002-7369-4636](https://orcid.org/0000-0001-6840-1466))  
 **Affiliation:** University of Southern Denmark, Department of Business and Sustainability
 
 ---
