@@ -1,4 +1,4 @@
-# Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment
+# Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23688882.svg)](https://doi.org/10.5281/zenodo.23688882)
 
@@ -11,7 +11,7 @@
 
 This repository provides the complete data-handling, cleaning, bio-economic fusion, econometric estimation, policy micro-simulation, and publication visualisation pipeline for the study:
 
-> **Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets in a Longitudinal Panel Assessment**
+> **Operational Decarbonisation Supports Enterprise Economic Resilience Across European Commercial Fishing Fleets**
 
 In accordance with open-science reproducibility standards, this repository distributes the complete, self-contained Python analytical codebase. Underlying primary datasets are publicly accessible directly from the official European Union, international fisheries, and macroeconomic statistical repositories detailed below.
 
